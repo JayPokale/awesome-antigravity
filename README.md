@@ -6,7 +6,7 @@
 
 > A curated list of skills, tools and resources for **Google Antigravity**, Google's agentic development platform. It comes as three programs: [Antigravity 2.0](https://antigravity.google/docs/overview/), a desktop app for running agents, the [Antigravity CLI](https://antigravity.google/docs/cli/overview/) (`agy`) for the terminal, and the [Antigravity IDE](https://antigravity.google/docs/ide/overview/), plus [extensions](https://antigravity.google/docs/ide/extensions/) for VS Code, Visual Studio, JetBrains, Zed and Xcode.
 
-If this list saved you some searching, you can buy me a coffee on [Ko-fi](https://ko-fi.com/michaelc0de).
+If this list saved you some searching, my book [Teach It Once](https://leanpub.com/teachitonce) shows how to take what your AI knows about you into files you own and teach it your work and your rules once. The first chapters are a free sample.
 
 I also write about building with AI agents, what works and what broke, in a free newsletter: [subscribe on Substack](https://michaelzelbel.substack.com/subscribe).
 
